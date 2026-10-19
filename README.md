@@ -99,3 +99,7 @@ Do not commit `.dev.vars`, `.env`, `.wrangler/`, Cloudflare credentials, or expo
 
 <img width="2850" height="1618" alt="image" src="https://github.com/user-attachments/assets/ad77f5f0-2f67-4167-a791-fd9726a20157" />
 
+<img width="2831" height="1537" alt="image" src="https://github.com/user-attachments/assets/676788ba-876f-4049-9bb7-8809947c3a62" />
+
+<img width="2352" height="1528" alt="image" src="https://github.com/user-attachments/assets/6d4fe390-be78-41f1-ad7d-5f2d7f16d5d3" />
+
