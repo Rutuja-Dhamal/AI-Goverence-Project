@@ -97,6 +97,5 @@ Do not commit `.dev.vars`, `.env`, `.wrangler/`, Cloudflare credentials, or expo
 - Responses include CSP, frame protection, referrer, permissions, content-type, and HTTPS transport headers.
 - The repository contains no secrets, private keys, passwords, or production data.
 
-## License
+<img width="2850" height="1618" alt="image" src="https://github.com/user-attachments/assets/ad77f5f0-2f67-4167-a791-fd9726a20157" />
 
-MIT © 2026 Rutuja Dhamal
